@@ -1,1 +1,1 @@
-# people-counter
+# counter app
